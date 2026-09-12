@@ -482,28 +482,7 @@ For an academic/project demonstration:
 
 ---
 
-## 📸 Screenshots
 
-Add your project screenshots here:
-
-```text
-docs/
-├── home.png
-├── login.png
-├── passenger-dashboard.png
-├── find-ride.png
-├── booking.png
-├── driver-dashboard.png
-└── admin-dashboard.png
-```
-
-Then display them like:
-
-```markdown
-![Home Page](docs/home.png)
-![Find Ride](docs/find-ride.png)
-![Dashboard](docs/passenger-dashboard.png)
-```
 
 ---
 
